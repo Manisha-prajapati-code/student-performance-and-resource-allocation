@@ -1,5 +1,5 @@
 DASHBOARD LINK https://claude.site/artifacts/ae602f2a-5660-4375-89db-b055138af11b
-# student-performance-and-resource-allocation
+# student_performance_and_resource_allocation
 🎯 Objectives (Objects)
 Individual Student Performance
 
